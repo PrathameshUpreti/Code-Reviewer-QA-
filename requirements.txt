@@ -1,0 +1,29 @@
+# AutoGen Core Dependencies
+autogen-agentchat>=0.4.0
+autogen-core>=0.4.0
+autogen-ext[openai]>=0.4.0
+
+# Environment and Configuration
+python-dotenv>=1.0.0
+pydantic>=2.0.0
+
+# Async Support
+asyncio>=3.4.3
+aiofiles>=23.0.0
+
+# Code Analysis Tools
+ast-tools>=0.1.0
+
+# HTTP Client for OpenRouter
+httpx>=0.24.0
+requests>=2.31.0
+
+# Development Tools
+pytest>=7.0.0
+pytest-asyncio>=0.21.0
+black>=23.0.0
+flake8>=6.0.0
+
+
+# frontend dependencies
+streamlit>=1.20.0
